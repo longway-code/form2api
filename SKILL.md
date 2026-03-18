@@ -1,6 +1,6 @@
 ---
 name: form2api
-description: A web form reverse-engineering tool. Submit any login-required form once manually, and it automatically intercepts the real API requests, analyzes the structure, and generates reusable API documentation and call code — so you never have to fill out that form again. Triggers: reverse a form, find the API behind a form, intercept form requests, capture network requests, form to API, form2api, automate form submission, bulk submit form, generate API docs from form, what API does this form call, scrape form API, reverse engineer web form, form automation, no API docs, internal system API, batch form operations.
+description: Reverse-engineer web forms to APIs. Submit a form once, capture the real API requests, and generate reusable API docs and code.
 ---
 
 # Form2API
